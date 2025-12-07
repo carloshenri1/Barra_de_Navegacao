@@ -8,7 +8,7 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     background-color: #f4f4f4;
-   background-image: url(https://cdn.iset.io/assets/55268/produtos/42816/quadro-vazado-cantinho-do-churrasco-02.jpg);
+   background-image: url(../12902d77ddd5fafa1f19f76485d51f7d-paisagem-de-praia-tropical.webp);
    background-repeat: no-repeat;
    background-size: cover;
   
@@ -36,6 +36,7 @@ body{
     font-size: 1.8rem;/*tamanho grande para o logo*/
     font-weight: bold;/* largura da fonte*/
     color: #333;
+    background-color:#007bff;
     text-decoration: none;/*remove o sublinhado do link*/
 }
 
@@ -61,7 +62,7 @@ body{
  
 }
 .active{ /*estilo para o link ativo*/
-    background-color: #87e252;
+  
     text-decoration: none;
     border-radius: 5px;
     
